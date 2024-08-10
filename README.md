@@ -1,5 +1,3 @@
-# Expense-report-program-code
-Expense report program code.
 前言：
 我目前在教育界工作，工作上時常要彙整報帳表單給會計，因此我要設計一個Python自動化程式，根據使用者輸入多筆報帳者姓名，系統會自動產生報帳用領據報表。
 
